@@ -3,20 +3,20 @@
 	🚧 em construção... 
 </h4> 
 
-<h1 align="center"> 🤝 Marco Antonio Teixeira </h1>
+### Hi there 👋
 
-<h3 align="center">  Junior Full Stack  Developer  </h3>
+I’m Marco Antonio Teixeira, a Junior FullStack Developer.
+
 <br/>
 <br/>
 
-
-## Formação Acadêmica
+## About
 <br/>
+I am a Electrical Engineer and Systems Developer Analyst.
 
 
-## Conhecimentos
+## Skills
 <br/>
-
 
 `HTML` `CSS` `jsp/jstl` `JavaScript` `Typescript` `ReactJS` `React Native` `VueJS` `Axios` `JQuery` `Bootstrap` `Thymeleaf`
 
@@ -31,12 +31,8 @@
 <br/>
 <br/>
 
+<img align="left" alt="akkefa Github Stats" src="https://github-readme-stats.vercel.app/api?username=MAntonioST&show_icons=true&hide_border=true" />
 
-<p align='center'>
-    <a href="">
-        <img align="center" height='120px' src="https://github-readme-stats.vercel.app/api?username=MAntonioST&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="center" height='120px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAntonioST&hide=html,css&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-    </a>
-</p>
 <br/>
 <br/>
 
@@ -48,3 +44,8 @@
 <br />
  </p>
  
+ ## Contact
+<br/>
+🌐 LinkedIn: https://www.linkedin.com/in/marco-antonio-teixeira-5890084a/
+
+- 📧 m.antonyteixeira@gmail.com
