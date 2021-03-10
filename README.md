@@ -3,7 +3,7 @@
 	🚧 em construção... 
 </h4> 
 
-<h1 align="center"> 🤝 Olá, meu nome é Marco Antonio Teixeira </h1>
+<h1 align="center"> 🤝 Marco Antonio Teixeira </h1>
 
 <h3 align="center">  Junior Full Stack  Developer  </h3>
 <br/>
