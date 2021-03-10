@@ -10,6 +10,12 @@ I’m Marco Antonio Teixeira, a Junior FullStack Developer.
 
 I am a Electrical Engineer and Systems Developer Analyst.
 
+## Contact
+
+🌐 LinkedIn: https://www.linkedin.com/in/marco-antonio-teixeira-5890084a/
+
+📧 m.antonyteixeira@gmail.com
+
 ## Skills
 
 `HTML` `CSS` `jsp/jstl` `JavaScript` `Typescript` `ReactJS` `React Native` `VueJS` `Axios` `JQuery` `Bootstrap` `Thymeleaf`
@@ -20,10 +26,7 @@ I am a Electrical Engineer and Systems Developer Analyst.
 
 `CLI` `Git` `Github` `NPM` `Yarn` `Netlify` `Heroku`
 
+---
 <img align="left" alt="akkefa Github Stats" src="https://github-readme-stats.vercel.app/api?username=MAntonioST&show_icons=true&hide_border=true" />
-<br/>
- ## Contact
 
-🌐 LinkedIn: https://www.linkedin.com/in/marco-antonio-teixeira-5890084a/
-
-- 📧 m.antonyteixeira@gmail.com
+ 
