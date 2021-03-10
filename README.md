@@ -14,11 +14,8 @@
 
 ## Formação Acadêmica
 <br/>
-> Análise e Desenvolvimento de Sistemas (Fatec - Mogi das Cruzes) - ano 2020
-> Engenheiro Eletricista (UMC - Mogi das Cruzes) - ano 2013.
 
-<br/>
-<br/>
+
 ## Skills
 <br/>
 <br/>
