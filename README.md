@@ -2,13 +2,10 @@
 
 <h3 align="center">  Junior Full-Stack Developer </h3>
 
-<br/>
 ## About
 
-I am a Electrical Engineer and Systems Developer Analyst.
+I’m a Electrical Engineer and Systems Developer Analyst.
 
-
-<br/>
 ## Some of my skills
 
 `HTML` `CSS` `jsp/jstl` `JavaScript` `Typescript` `ReactJS` `React Native` `VueJS` `Axios` `JQuery` `Bootstrap` `Thymeleaf`
@@ -20,12 +17,18 @@ I am a Electrical Engineer and Systems Developer Analyst.
 `CLI` `Git` `Github` `NPM` `Yarn` `Netlify` `Heroku`
 
 ---
-<img align="left" alt="akkefa Github Stats" src="https://github-readme-stats.vercel.app/api?username=MAntonioST&show_icons=true&hide_border=true" />
 
-<br/>
+<img align="center" alt="akkefa Github Stats" src="https://github-readme-stats.vercel.app/api?username=MAntonioST&show_icons=true&hide_border=true" />
 
 ## Contact
 
 🌐 LinkedIn: https://www.linkedin.com/in/marco-antonio-teixeira-5890084a/
 
 📧 m.antonyteixeira@gmail.com
+
+<br/>
+<p align='left'>
+
+![Visitor Count](https://profile-counter.glitch.me/MAntonioST/count.svg)  &nbsp;&nbsp;&nbsp; Glad to see you here!
+
+</p>
