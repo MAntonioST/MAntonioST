@@ -7,12 +7,6 @@
 
 I am a Electrical Engineer and Systems Developer Analyst.
 
-<br/>
-## Contact
-
-🌐 LinkedIn: https://www.linkedin.com/in/marco-antonio-teixeira-5890084a/
-
-📧 m.antonyteixeira@gmail.com
 
 <br/>
 ## Some of my skills
@@ -30,10 +24,8 @@ I am a Electrical Engineer and Systems Developer Analyst.
 
 <br/>
 
-<p align='left'>
-<br/>
+## Contact
 
-![Visitor Count](https://profile-counter.glitch.me/MAntonioST/count.svg)  &nbsp;&nbsp;&nbsp; Glad to see you here!
+🌐 LinkedIn: https://www.linkedin.com/in/marco-antonio-teixeira-5890084a/
 
-<br />
-</p>
+📧 m.antonyteixeira@gmail.com
