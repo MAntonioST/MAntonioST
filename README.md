@@ -1,22 +1,21 @@
+<h1 align="center"> 🤝 Hi, I’m Marco </h1>
 
-<h4> 
-	🚧 em construção... 
-</h4> 
+<h3 align="center">  Junior Full-Stack Developer </h3>
 
-### Hi there 👋
-I’m Marco Antonio Teixeira, a Junior FullStack Developer.
-
+<br/>
 ## About
 
 I am a Electrical Engineer and Systems Developer Analyst.
 
+<br/>
 ## Contact
 
 🌐 LinkedIn: https://www.linkedin.com/in/marco-antonio-teixeira-5890084a/
 
 📧 m.antonyteixeira@gmail.com
 
-## Skills
+<br/>
+## Some of my skills
 
 `HTML` `CSS` `jsp/jstl` `JavaScript` `Typescript` `ReactJS` `React Native` `VueJS` `Axios` `JQuery` `Bootstrap` `Thymeleaf`
 
@@ -29,4 +28,12 @@ I am a Electrical Engineer and Systems Developer Analyst.
 ---
 <img align="left" alt="akkefa Github Stats" src="https://github-readme-stats.vercel.app/api?username=MAntonioST&show_icons=true&hide_border=true" />
 
- 
+<br/>
+
+<p align='left'>
+<br/>
+
+![Visitor Count](https://profile-counter.glitch.me/MAntonioST/count.svg)  &nbsp;&nbsp;&nbsp; Glad to see you here!
+
+<br />
+</p>
