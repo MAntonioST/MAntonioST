@@ -8,13 +8,13 @@ I’m a Electrical Engineer and Systems Developer Analyst.
 
 ## Some of my skills
 
+`Java` `Spring Boot` `Spring Security` `Spring Data Jpa` `JWT` `OAuth2` `Hibernate` `PostgreSQL` `MySQL` `MariaDB` `H2` 
+
 `HTML` `CSS` `jsp/jstl` `JavaScript` `Typescript` `ReactJS` `React Native` `VueJS` `Axios` `JQuery` `Bootstrap` `Thymeleaf`
 
-`Java` `Spring Boot` `Spring Security` `Spring Data Jpa` `JWT` `OAuth2` `Hibernate` `PostgreSQL` `MySQL` `RESTFull API` `Maven/Gradle`
+`RESTFull API` `Maven/Gradle` `Design Patterns` `C/C++` `C#` `ASP.NET Core` `EntityFramework`  `Desenvolvimento Ágil / Scrum` `Kanban`
 
-`Design Patterns` `C/C++` `C#` `ASP.NET Core` `EntityFramework`  `Desenvolvimento Ágil / Scrum`
-
-`CLI` `Git` `Github` `NPM` `Yarn` `Netlify` `Heroku`
+`CLI` `Git` `Github` `NPM` `Yarn` `Netlify` `Heroku` `Azure DevOps` `Docker` `Travis` `Desenvolvimento Ágil` `JUnit` `Mockito`
 
 ---
 
