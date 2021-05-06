@@ -12,9 +12,11 @@ I’m a Electrical Engineer and Systems Developer Analyst.
 
 `HTML` `CSS` `jsp/jstl` `JavaScript` `Typescript` `ReactJS` `React Native` `VueJS` `Axios` `JQuery` `Bootstrap` `Thymeleaf`
 
-`RESTFull API` `Maven/Gradle` `Design Patterns` `C/C++` `C#` `ASP.NET Core` `EntityFramework`  `Desenvolvimento Ágil / Scrum` `Kanban`
+`RESTFull API` `Maven/Gradle` `Design Patterns` `C/C++` `C#` `ASP.NET Core` `EntityFramework`  `Desenvolvimento Ágil / Scrum`
 
-`CLI` `Git` `Github` `NPM` `Yarn` `Netlify` `Heroku` `Azure DevOps` `Docker` `Travis` `Desenvolvimento Ágil` `JUnit` `Mockito`
+`Kanban` `CLI` `Git` `Github` `NPM` `Yarn` `Netlify` `Heroku` `Azure DevOps` `Docker` `Travis` `Desenvolvimento Ágil` `JUnit`
+
+`Mockito`
 
 ---
 
