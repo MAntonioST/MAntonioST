@@ -143,10 +143,11 @@ graph LR
     style G fill:#f5576c
 ```
 
-� Contact
-LinkedIn: www.linkedin.com
+✉️ Contact
 
-Email: m.antonyteixeira@gmail.com
+@ LinkedIn: www.linkedin.com
+
+@ Email: m.antonyteixeira@gmail.com
 
 
 💡 "Engineering the future, one line of code at a time"
