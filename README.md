@@ -150,9 +150,7 @@ www.linkedin.com
 
 Email: m.antonyteixeira@gmail.com
 
-GitHub: 
-
-github.com
+GitHub: github.com
 
 💡 "Engineering the future, one line of code at a time"
 
