@@ -142,15 +142,12 @@ graph LR
     style E fill:#f093fb
     style G fill:#f5576c
 ```
-```
-� Contact
-LinkedIn: 
 
-www.linkedin.com
+� Contact
+LinkedIn: www.linkedin.com
 
 Email: m.antonyteixeira@gmail.com
 
-GitHub: github.com
 
 💡 "Engineering the future, one line of code at a time"
 
@@ -158,4 +155,4 @@ GitHub: github.com
 
 Thanks for visiting! ��
 
-```
+
