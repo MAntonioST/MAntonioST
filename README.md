@@ -20,9 +20,8 @@
   
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+enterprise+applications;Clean+code+enthusiast;Always+learning+new+tech&center=true&size=18&color=667eea&width=500&height=40&duration=4000&pause=1000">
   
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAntonioST&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <br>
+ 
 </div>
 
 ## 👨‍💻 Professional Profile
