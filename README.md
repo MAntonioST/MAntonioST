@@ -178,6 +178,16 @@ Agile Methodologies:
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
 </div>
 
+### 🖥️ Servers & Infrastructure
+<div align="center">
+  <img src="https://img.shields.io/badge/JBoss-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="JBoss">
+  <img src="https://img.shields.io/badge/WildFly-FF6600?style=for-the-badge&logo=wildfly&logoColor=white" alt="WildFly">
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+</div>
+
 <br>
 
 ## 🌐 Let's Connect!
