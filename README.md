@@ -6,7 +6,7 @@
     Marco Antonio Teixeira
   </h1>
   
-  <h3>🚀 Full-Stack Developer & Software Engineer</h3>
+  <h3>💻 Software Engineer & Full-Stack Developer</h3>
   
   <p>
     <em>🎓 Electrical Engineer • 💻 Systems Analyst • ⚡ Software Engineering Specialist</em>
@@ -108,12 +108,40 @@ Agile Methodologies:
   - Kanban (Flow Management, WIP Limits)
   - XP (Extreme Programming - Pair Programming, TDD)
 ```
+
+
+<br>
+
+## 🚀 Featured Projects
+
+### 🤖 Enterprise Chatbot with AI
+
+Full-stack enterprise chatbot powered by **Llama 3.3 70B** AI model with conversation memory and modern web interface.
+
+**🔗 Repositories:**
+- **Backend:** [chatbot-empresarial](https://github.com/MAntonioST/chatbot-empresarial) - Spring Boot REST API with AI integration
+- **Frontend:** [chatbot-ui](https://github.com/MAntonioST/chatbot-ui) - Angular 21 responsive chat interface
+
+**💻 Tech Stack:**  
+Java 21 • Spring Boot 3.4 • Spring AI • PostgreSQL • Angular 21 • TypeScript • Docker • Groq API • Llama 3.3 70B
+
+**✨ Key Features:**
+- 🤖 AI-powered conversations with Llama 3.3 70B via Groq API
+- 💬 Real-time chat with markdown rendering and syntax highlighting
+- 📚 Persistent conversation history with PostgreSQL
+- 🔄 Session management for multiple concurrent users
+- 📱 Responsive design (mobile & desktop)
+- ⚡ Low latency responses (~500ms average)
+
+<br>
+
 🛠️ Technology Stack
 
 ### 🔥 Backend & Architecture
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI">
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
   <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
