@@ -47,7 +47,7 @@
   <tr>
     <td width="30%"><strong>🎯 Software Engineering</strong></td>
     <td width="70%">
-      <strong>Post-Graduate Specialization</strong> <em>(In Progress - 2024/2025)</em><br>
+      <strong>Post-Graduate Specialization</strong> <em>(2024/2025)</em><br>
       <strong>Cruzeiro do Sul Virtual</strong><br>
       • Agile Methodologies: Scrum, XP, Kanban<br>
       • Software Architecture: Design Patterns, SOLID Principles<br>
